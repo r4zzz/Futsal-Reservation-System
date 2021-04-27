@@ -1,0 +1,14 @@
+.super-heading {
+  font-size: 70px; 
+}
+
+
+.super-paragraph {
+  font-size: 30px; font-weight: 300;
+}
+
+.carousel-caption .super-paragraph a,
+.carousel-caption .super-paragraph a:hover
+{
+  color: #fff;
+}
